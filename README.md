@@ -1,5 +1,7 @@
 # movie_loader
 
+Home page of app: <your localhost>/afisha
+
 ## Project setup
 ```
 npm install
